@@ -3,8 +3,11 @@
 ## 1.词频统计图
 ### 作业1说明：
   该项作业基于《哈利波特》作品系列咒语词频统计，运用了上课讲到的柱状图、词云，除此之外还使用了饼状图，对统计结果进行可视化展示。
-
-[作业1链接](https://zzz1031.github.io/spell_pie.html)
+  
+  作业1链接：
+[柱状图](https://zzz1031.github.io/spell_bar.html)
+[词云](https://zzz1031.github.io/哈利波特-咒语词云.html)
+[饼状图](https://zzz1031.github.io/spell_pie.html)
 
 ## 2.地理连线图
 ### 作业2说明：
