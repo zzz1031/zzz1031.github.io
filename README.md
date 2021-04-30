@@ -63,7 +63,7 @@
   
   英雄来了又走，但传奇永垂不朽！致敬传奇巨星科比·布莱恩特！
   
-  [作业3链接](https://zzz1031.github.io/kobe.html)
+  [作业3链接](https://zzz1031.github.io/3/kobe.html)
   
   
   
